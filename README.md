@@ -1,5 +1,5 @@
 ## Son hali 
-![image](https://user-images.githubusercontent.com/58303745/120906498-f38eff00-c66a-11eb-854b-438bcf47cb6f.png)
+![image](https://user-images.githubusercontent.com/58303745/121418486-0b70c680-c97c-11eb-9660-5524d6e56eb4.png)
 
 # Getting Started with Create React App
 
